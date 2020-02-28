@@ -1,3 +1,3 @@
-def my_each # put argument(s) here
-  while 
+def my_each(array)
+  while array.length < 1 
 end
